@@ -8,9 +8,9 @@ Apple news 中国大陆地区解锁🔓，让你的Apple one订阅物有所值
 3. 请在使用脚本前打开科学上网软件，同时你的节点应该为提供Apple news服务的地区的节点，否则徒劳
 4. 请确保你的iPhone iPad上安装有苹果官方的地图软件和苹果官方的Apple news应用软件
 ## iPhone和iPad Apple News解锁
-[点击下载](https://www.icloud.com/shortcuts/29cb8fdee87545f4953f61c4aafd7dee)iPhone的Apple News解锁快捷方式
-[点击下载](https://www.icloud.com/shortcuts/d5177ac4b61e4d9f8de08a792643e188)iPad的Apple New解锁快捷方设为
-你可以将快捷方式添加到主屏幕，然后将其图标设置成Apple news官方图标，就可以达到以假乱真的目的，同时也可以做到苹果公司所推崇的无缝化的用户体验感
+- [点击下载](https://www.icloud.com/shortcuts/29cb8fdee87545f4953f61c4aafd7dee)iPhone的Apple News解锁快捷方式
+- [点击下载](https://www.icloud.com/shortcuts/d5177ac4b61e4d9f8de08a792643e188)iPad的Apple New解锁快捷方设为
+- 你可以将快捷方式添加到主屏幕，然后将其图标设置成Apple news官方图标，就可以达到以假乱真的目的，同时也可以做到苹果公司所推崇的无缝化的用户体验感
 ## Mac Apple News解锁
 [点击下载](https://www.icloud.com/shortcuts/5942afcf23a449ba8039f86598330c29)Mac的Apple News解锁
 ## 关于原理
