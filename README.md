@@ -3,7 +3,7 @@
 ### Apple news 中国大陆地区解锁🔓，让你的Apple one订阅物有所值
 ![Apple news in China](https://media.idownloadblog.com/wp-content/uploads/2022/01/Apple-News-iPhone-Mac-Apple-Watch.jpg)
 ## 注意事项
-1. 在一切开始前请将你的iPhone iPad 或Mac设备的地区改为美国地区
+1. 在一切开始前请将你的iPhone iPad 或Mac设备的地区改为美国地区，同时iCloud中必须登录了美区ID
 2. 在使用脚本前一定要开启Wi-Fi网络，该解锁必须在有Wi-Fi网络的条件下才能完成
 3. 请在使用脚本前打开科学上网软件，同时你的节点应该为提供Apple news服务的地区的节点，否则徒劳
 4. 请确保你的iPhone iPad上安装有苹果官方的地图软件和苹果官方的Apple news应用软件
